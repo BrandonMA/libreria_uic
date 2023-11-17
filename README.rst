@@ -36,6 +36,18 @@ Finally, install your dependencies, you don't have to do it all the time but is 
 
     pip install -r requirements_dev.txt
 
+If you want to freeze new dependencies, just run this:
+
+.. code-block:: bash
+
+    pip install -r requirements.txt
+
+Or this for local:
+
+.. code-block:: bash
+
+    pip install -r requirements_dev.txt
+
 Features
 --------
 
