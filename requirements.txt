@@ -22,7 +22,6 @@ ipython==8.17.2
 jedi==0.19.1
 jupyter_client==8.6.0
 jupyter_core==5.5.0
-libreria-uic @ file:///Users/brandon/Developer/libreria_uic
 matplotlib-inline==0.1.6
 nest-asyncio==1.5.8
 packaging==23.2
